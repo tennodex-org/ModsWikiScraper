@@ -1,0 +1,11 @@
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\bin\Debug\netcoreapp2.2\ModsWikiScraper.deps.json
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\bin\Debug\netcoreapp2.2\ModsWikiScraper.runtimeconfig.json
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\bin\Debug\netcoreapp2.2\ModsWikiScraper.runtimeconfig.dev.json
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\bin\Debug\netcoreapp2.2\ModsWikiScraper.dll
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\obj\Debug\netcoreapp2.2\ModsWikiScraper.csprojAssemblyReference.cache
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\obj\Debug\netcoreapp2.2\ModsWikiScraper.csproj.CoreCompileInputs.cache
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\obj\Debug\netcoreapp2.2\ModsWikiScraper.AssemblyInfoInputs.cache
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\obj\Debug\netcoreapp2.2\ModsWikiScraper.AssemblyInfo.cs
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\bin\Debug\netcoreapp2.2\ModsWikiScraper.pdb
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\obj\Debug\netcoreapp2.2\ModsWikiScraper.dll
+C:\Development\Projects\TennoDex Organisation\GitHub\ModsWikiScraper\ModsWikiScraper\ModsWikiScraper\obj\Debug\netcoreapp2.2\ModsWikiScraper.pdb
